@@ -1,19 +1,19 @@
+Zachary Ross rossx297@umn.edu                                                                            
+George Thompsn thom7918@umn.edu        
+
 # To use:
 
 From the command line:
 
+'''
 make
 
 make test
+'''
 
 Then input the directory 1 - 10.
 
-Group Number: 85                                                                                         
-                                                                                                             
-Zachary Ross rossx297@umn.edu                                                                            
-George Thompsn thom7918@umn.edu                                                                          
-                                                                                                         
-csel-kh1250-07                                                                                           
+## Division of Labor                                                                                          
 
 Zachary Ross created the structure of the queue and initial logic around concurrency
 while George Thompson debuged the mutex locks and conditional variables, simplifiing them
