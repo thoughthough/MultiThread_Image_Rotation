@@ -22,7 +22,7 @@ the project.
                                                                                                          
 We did not change the Makefile.                                                                         
                                                                                                          
-Program design:
+### Program design:
     
 The concurrency strategy uses the following
 
