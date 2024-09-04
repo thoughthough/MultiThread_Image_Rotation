@@ -5,11 +5,11 @@ George Thompsn thom7918@umn.edu
 
 From the command line:
 
-'''
+```
 make
 
 make test
-'''
+```
 
 Then input the directory 1 - 10.
 
