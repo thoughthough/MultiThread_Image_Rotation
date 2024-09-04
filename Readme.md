@@ -1,7 +1,7 @@
 Zachary Ross rossx297@umn.edu                                                                            
 George Thompsn thom7918@umn.edu        
 
-# To use:
+# To use
 
 From the command line:
 
@@ -22,7 +22,7 @@ the project.
                                                                                                          
 We did not change the Makefile.                                                                         
                                                                                                          
-### Program design:
+## Program design
     
 The concurrency strategy uses the following
 
