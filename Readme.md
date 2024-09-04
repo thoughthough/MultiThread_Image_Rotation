@@ -1,3 +1,13 @@
+# To use:
+
+From the command line:
+
+make
+
+make test
+
+Then input the directory 1 - 10.
+
 Group Number: 85                                                                                         
                                                                                                              
 Zachary Ross rossx297@umn.edu                                                                            
