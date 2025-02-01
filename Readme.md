@@ -1,5 +1,3 @@
-Zachary Ross rossx297@umn.edu                                                                            
-George Thompsn thom7918@umn.edu        
 
 # To use
 
@@ -15,8 +13,8 @@ Then input the directory 1 - 10.
 
 ## Division of Labor                                                                                          
 
-Zachary Ross created the structure of the queue and initial logic around concurrency
-while George Thompson debuged the mutex locks and conditional variables, simplifiing them
+I created the structure of the queue and initial logic around concurrency
+while name redacted debuged the mutex locks and conditional variables, simplifiing them
 and removing the race conditions. We both worked on the image rotation aspect of 
 the project.
                                                                                                          
